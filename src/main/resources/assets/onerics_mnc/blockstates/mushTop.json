@@ -1,0 +1,19 @@
+{
+    "variants": {
+        
+        "variant=center": { "model": "onerics_mnc:mushTop_center" },
+        
+        "variant=north": { "model": "onerics_mnc:mushTop_n" },
+        "variant=east": { "model": "onerics_mnc:mushTop_n", "uvlock": true, "y": 90 },
+        "variant=south": { "model": "onerics_mnc:mushTop_n", "uvlock": true, "y": 180 },
+        "variant=west": { "model": "onerics_mnc:mushTop_n", "uvlock": true, "y": 270 },
+        
+        "variant=north_east": { "model": "onerics_mnc:mushTop_ne" },
+        "variant=south_east": { "model": "onerics_mnc:mushTop_ne", "uvlock": true, "y": 90 },
+        "variant=south_west": { "model": "onerics_mnc:mushTop_ne", "uvlock": true, "y": 180 },
+        "variant=north_west": { "model": "onerics_mnc:mushTop_ne", "uvlock": true, "y": 270 },
+        
+        "variant=all_outside": { "model": "onerics_mnc:mushTop_allSkin" }
+    }
+}
+

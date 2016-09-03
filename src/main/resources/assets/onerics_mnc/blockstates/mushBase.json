@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":    { "model": "onerics_mnc:mushBase" },
+        "axis=z":     { "model": "onerics_mnc:mushBase", "x": 90 },
+        "axis=x":     { "model": "onerics_mnc:mushBase", "x": 90, "y": 90 },
+        "axis=none":   { "model": "onerics_mnc:mushBark" }
+    }
+}

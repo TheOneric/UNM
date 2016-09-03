@@ -1,0 +1,16 @@
+[
+{
+  "modid" : "onerics_mnc",
+  "name" : "Ultimate-Nether",
+  "description": "A mod dedicated to improving your Nether-experience.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.minecraftforum.net/topic/1457638-152forgethe-ultimate-nether-modsmp/",
+  "updateUrl": "",
+  "authorList": ["Oneric"],
+  "credits": "",
+  "logoFile": "/mnc_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
