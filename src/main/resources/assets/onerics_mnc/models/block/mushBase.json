@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "onerics_mnc:blocks/mush_base_top",
+        "side": "onerics_mnc:blocks/mush_base"
+    }
+}
+
