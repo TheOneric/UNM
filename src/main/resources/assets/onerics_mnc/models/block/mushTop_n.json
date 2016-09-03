@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "onerics_mnc:blocks/mush_top_inner",
+        "down": "onerics_mnc:blocks/mush_top_inner",
+        "up": "onerics_mnc:blocks/mush_top_outer",
+        "north": "onerics_mnc:blocks/mush_top_outer",
+        "east": "onerics_mnc:blocks/mush_top_inner",
+        "south": "onerics_mnc:blocks/mush_top_inner",
+        "west": "onerics_mnc:blocks/mush_top_inner"
+    }
+}

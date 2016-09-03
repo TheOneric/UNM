@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":    { "model": "onerics_mnc:netherLog" },
+        "axis=z":     { "model": "onerics_mnc:netherLog", "x": 90 },
+        "axis=x":     { "model": "onerics_mnc:netherLog", "x": 90, "y": 90 },
+        "axis=none":   { "model": "onerics_mnc:netherLogBark" }
+    }
+}
