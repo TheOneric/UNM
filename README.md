@@ -1,10 +1,9 @@
 # UNM
-I tried to port/rewrite my Mod for MC 1.10+ with the new json-block models and all the other changes since 1.6.4, but it turned out to be more work, and json-Block-Models to be more annoying, than anticapated. Due to lack of time this endeavour was given up after a few months.
-I'll leave it here in case someone with more time, can use this in conjunction with the full, finished version for Minecraft Release 1.6.4, which can be found here: https://github.com/TheOneric/UNM_1.6.4
+Incomplete attempt to port UNM to Minecraft 1.10. Due to many changes
+to Minecraft modding since and to get rid of technical debt from previous
+version ports and mod expansions, i tried to rebuild it from scratch.
 
-```
-The Ultimate Nether Mod for Minecraft 1.10.
-
-This mod is currently being rewritten from scratch adding and changing some features and updating to Minecraft 1.10.
-In it's current state it is far, really far, away from being complete or even a beta status.
-```https://github.com/TheOneric/UNM_1.6.4
+Turned out to be more work and the new systems more annoying than anticipated,
+so this was never finished. Left here just in case someone has a use for it.
+It’s probably more fruitful to take a stab at the last finished version prior to 
+the attempted rewrite over at: https://github.com/TheOneric/UNM_1.6.4
